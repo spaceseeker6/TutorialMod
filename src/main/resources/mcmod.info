@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tm",
+  "name": "Tutorial Mod",
+  "description": "Tutorial Mod.",
+  "version": "${0.1}",
+  "mcversion": "${1.12.1}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Andy"],
+  "credits": "Andy",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
